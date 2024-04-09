@@ -16,6 +16,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Real-Time Simulated Avatar from Head-Mounted Sensors **(CVPR 2024)** [[Project]](https://zhengyiluo.github.io/SimXR/) [[Paper]](https://arxiv.org/abs/2403.06862)
 - X-MIC: Cross-Modal Instance Conditioning for Egocentric Action Generalization **(CVPR 2024)** [[Code]](https://github.com/Annusha/xmic)
 - A Backpack Full of Skills: Egocentric Video Understanding with Diverse Task Perspectives **(CVPR 2024)** [[Paper]](https://arxiv.org/pdf/2403.03037.pdf) [[Project]](https://sapeirone.github.io/EgoPack/)
+- SoundingActions: Learning How Actions Sound from Narrated Egocentric Videos **(CVPR 2024)**
 
 ### 2023
 - Ego-Body Pose Estimation via Ego-Head Pose Estimation **(CVPR 2023)** [[Project]](https://lijiaman.github.io/projects/egoego/) [[Paper]](http://openaccess.thecvf.com/content/CVPR2023/html/Li_Ego-Body_Pose_Estimation_via_Ego-Head_Pose_Estimation_CVPR_2023_paper.html) [[Code]](https://github.com/lijiaman/egoego_release) [[Citations]](https://scholar.google.com/scholar?cites=4815197793392724124&as_sdt=2005&sciodt=0,5&hl=en)
