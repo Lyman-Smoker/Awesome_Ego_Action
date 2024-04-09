@@ -13,6 +13,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World **(CVPR 2024)** [[Paper]](https://arxiv.org/pdf/2403.16182.pdf) [[Code]](https://github.com/OpenGVLab/EgoExoLearn/)
 - PREGO: online mistake detection in PRocedural EGOcentric videos **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.01933) [[Code]](https://github.com/aleflabo/PREGO)
 - 3D Human Pose Perception from Egocentric Stereo Videos **(CVPR 2024)**
+- Real-Time Simulated Avatar from Head-Mounted Sensors **(CVPR 2024)** [[Project]](https://zhengyiluo.github.io/SimXR/) [[Paper]](https://arxiv.org/abs/2403.06862)
 - X-MIC: Cross-Modal Instance Conditioning for Egocentric Action Generalization **(CVPR 2024)** [[Code]](https://github.com/Annusha/xmic)
 - A Backpack Full of Skills: Egocentric Video Understanding with Diverse Task Perspectives **(CVPR 2024)** [[Paper]](https://arxiv.org/pdf/2403.03037.pdf) [[Project]](https://sapeirone.github.io/EgoPack/)
 
