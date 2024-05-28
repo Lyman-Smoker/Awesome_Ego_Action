@@ -9,6 +9,9 @@ In this reprository, interetsting papers in EAU are collected to show the develo
  
 
 ### 2024
+- Put Myself in Your Shoes: Lifting the Egocentric Perspective from Exocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.04370) [[Citations]](https://scholar.google.com/scholar?cites=17491620542590999599&as_sdt=2005&sciodt=0,5&hl=en)
+- Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2405.04370)
+- EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.13659)
 - Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind **(ArXiv 2024)**
 - EgoLifter: Open-world 3D Segmentation for Egocentric Perception **(ArXiv 2024)** [[Project]](https://egolifter.github.io/#) [[Paper]](https://arxiv.org/abs/2403.18118)
 - Intention-driven Ego-to-Exo Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.09194)
@@ -22,6 +25,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - A Backpack Full of Skills: Egocentric Video Understanding with Diverse Task Perspectives **(CVPR 2024)** [[Paper]](https://arxiv.org/pdf/2403.03037.pdf) [[Project]](https://sapeirone.github.io/EgoPack/)
 - SoundingActions: Learning How Actions Sound from Narrated Egocentric Videos **(CVPR 2024)**
 - Retrieval-Augmented Egocentric Video Captioning **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2401.00789) [[Citations]](https://scholar.google.com/scholar?cites=17188265237658528377&as_sdt=2005&sciodt=0,5&hl=en)
+- OAKINK2 : A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion **(CVPR 2024)** [[Paper]](https://arxiv.org/pdf/2403.19417.pdf) [[Project]](https://oakink.net/v2/) 
 
 ### 2023
 - Ego-Body Pose Estimation via Ego-Head Pose Estimation **(CVPR 2023)** [[Project]](https://lijiaman.github.io/projects/egoego/) [[Paper]](http://openaccess.thecvf.com/content/CVPR2023/html/Li_Ego-Body_Pose_Estimation_via_Ego-Head_Pose_Estimation_CVPR_2023_paper.html) [[Code]](https://github.com/lijiaman/egoego_release) [[Citations]](https://scholar.google.com/scholar?cites=4815197793392724124&as_sdt=2005&sciodt=0,5&hl=en)
