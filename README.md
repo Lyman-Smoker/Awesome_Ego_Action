@@ -19,6 +19,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives **(CVPR 2024)** [[Project]](https://ego-exo4d-data.org/#people) [[Paper]](https://ego-exo4d-data.org/paper/ego-exo4d.pdf) [[Citations]](https://scholar.google.com/scholar?cites=6807725739327920288&as_sdt=2005&sciodt=0,5&hl=en)
 - EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World **(CVPR 2024)** [[Paper]](https://arxiv.org/pdf/2403.16182.pdf) [[Code]](https://github.com/OpenGVLab/EgoExoLearn/)
 - PREGO: online mistake detection in PRocedural EGOcentric videos **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.01933) [[Code]](https://github.com/aleflabo/PREGO)
+- Error Detection in Egocentric Procedural Task Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html)
 - 3D Human Pose Perception from Egocentric Stereo Videos **(CVPR 2024)**
 - EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams **(CVPR 2024)** [[Project]](https://4dqv.mpi-inf.mpg.de/EventEgo3D/) [[Paper]](https://arxiv.org/pdf/2404.08640.pdf)
 - Real-Time Simulated Avatar from Head-Mounted Sensors **(CVPR 2024)** [[Project]](https://zhengyiluo.github.io/SimXR/) [[Paper]](https://arxiv.org/abs/2403.06862)
