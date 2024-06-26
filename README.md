@@ -16,6 +16,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind **(ArXiv 2024)**
 - EgoLifter: Open-world 3D Segmentation for Egocentric Perception **(ArXiv 2024)** [[Project]](https://egolifter.github.io/#) [[Paper]](https://arxiv.org/abs/2403.18118)
 - Intention-driven Ego-to-Exo Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.09194)
+- Learning to Segment Referred Objects from Narrated Egocentric Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Shen_Learning_to_Segment_Referred_Objects_from_Narrated_Egocentric_Videos_CVPR_2024_paper.pdf)
 - Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives **(CVPR 2024)** [[Project]](https://ego-exo4d-data.org/#people) [[Paper]](https://ego-exo4d-data.org/paper/ego-exo4d.pdf) [[Citations]](https://scholar.google.com/scholar?cites=6807725739327920288&as_sdt=2005&sciodt=0,5&hl=en)
 - EgoExoLearn: A Dataset for Bridging Asynchronous Ego- and Exo-centric View of Procedural Activities in Real World **(CVPR 2024)** [[Paper]](https://arxiv.org/pdf/2403.16182.pdf) [[Code]](https://github.com/OpenGVLab/EgoExoLearn/)
 - PREGO: online mistake detection in PRocedural EGOcentric videos **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.01933) [[Code]](https://github.com/aleflabo/PREGO)
