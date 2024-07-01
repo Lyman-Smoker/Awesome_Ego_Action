@@ -3,6 +3,8 @@ Egocentric Action Understanding (EAU) aims at understanding human actions based 
 
 In this reprository, interetsting papers in EAU are collected to show the development of the EAU community.
 
+💥 **NEWS**: CVPR-2024 papers are added to the list.
+
 ### Survey
 - A Survey on 3D Egocentric Human Pose Estimation **(2024 ArXiv)** [[Paper]](https://arxiv.org/abs/2403.17893)
 - An Outlook into the Future of Egocentric Vision **(2023 ArXiv)** [[Paper]](https://arxiv.org/pdf/2308.07123.pdf) [[Citations]](https://scholar.google.com/scholar?cites=15098752443409016265&as_sdt=2005&sciodt=0,5&hl=en)
