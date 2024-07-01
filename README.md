@@ -19,6 +19,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind **(ArXiv 2024)**
 - EgoLifter: Open-world 3D Segmentation for Egocentric Perception **(ArXiv 2024)** [[Project]](https://egolifter.github.io/#) [[Paper]](https://arxiv.org/abs/2403.18118)
 - Intention-driven Ego-to-Exo Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.09194)
+- EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.08877) [[Code]](https://github.com/iSEE-Laboratory/EgoExo-Fitness/tree/main)
 ----
 - Multi-Factor Adaptive Vision Selection for Egocentric Video Question Answering **(ICML 2024)** [[Paper]](https://openreview.net/pdf?id=u00dmbI8Db)
 - Grounded Question-Answering in Long Egocentric Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Di_Grounded_Question-Answering_in_Long_Egocentric_Videos_CVPR_2024_paper.html)
