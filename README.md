@@ -11,7 +11,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
  
 
 ### 2024
-**Yearly Key words**: Ego-Pose, New Dataset, 3D, Ego-Exo, Multi-modality, Mistake Detection
+**Yearly Key words**: Ego-Pose, New Dataset, 3D, Ego-Exo, Multi-modality, HOI, Mistake Detection
 - EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.19811)
 - EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions? **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.17719) [[Code]](https://github.com/xuboshen/EgoNCEpp)
 - Put Myself in Your Shoes: Lifting the Egocentric Perspective from Exocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.04370) [[Citations]](https://scholar.google.com/scholar?cites=17491620542590999599&as_sdt=2005&sciodt=0,5&hl=en)
