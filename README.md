@@ -3,7 +3,7 @@ Egocentric Action Understanding (EAU) aims at understanding human actions based 
 
 In this reprository, interetsting papers in EAU are collected to show the development of the EAU community.
 
-💥 **NEWS: CVPR-2024 papers are added to the list.**
+💥 **NEWS: CVPR-2024 & ICML-2024 papers are added to the list.**
 
 ### Survey
 - A Survey on 3D Egocentric Human Pose Estimation **(2024 ArXiv)** [[Paper]](https://arxiv.org/abs/2403.17893)
@@ -19,6 +19,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - EgoLifter: Open-world 3D Segmentation for Egocentric Perception **(ArXiv 2024)** [[Project]](https://egolifter.github.io/#) [[Paper]](https://arxiv.org/abs/2403.18118)
 - Intention-driven Ego-to-Exo Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.09194)
 ----
+- Multi-Factor Adaptive Vision Selection for Egocentric Video Question Answering **(ICML 2024)** [[Paper]](https://openreview.net/pdf?id=u00dmbI8Db)
 - Grounded Question-Answering in Long Egocentric Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Di_Grounded_Question-Answering_in_Long_Egocentric_Videos_CVPR_2024_paper.html)
 - Learning to Segment Referred Objects from Narrated Egocentric Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Shen_Learning_to_Segment_Referred_Objects_from_Narrated_Egocentric_Videos_CVPR_2024_paper.pdf)
 - Ego-Exo4D: Understanding Skilled Human Activity from First- and Third-Person Perspectives **(CVPR 2024)** [[Project]](https://ego-exo4d-data.org/#people) [[Paper]](https://ego-exo4d-data.org/paper/ego-exo4d.pdf) [[Citations]](https://scholar.google.com/scholar?cites=6807725739327920288&as_sdt=2005&sciodt=0,5&hl=en)
