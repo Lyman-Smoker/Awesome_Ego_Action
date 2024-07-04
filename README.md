@@ -19,8 +19,11 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.13659)
 - Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind **(ArXiv 2024)**
 - EgoLifter: Open-world 3D Segmentation for Egocentric Perception **(ArXiv 2024)** [[Project]](https://egolifter.github.io/#) [[Paper]](https://arxiv.org/abs/2403.18118)
+- HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2404.09933) [[Code]](https://github.com/Sid2697/HOI-Ref)
 - Intention-driven Ego-to-Exo Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.09194)
 ----
+- Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://masashi-hatano.github.io/assets/pdf/mm-cdfsl.pdf) [[Project]](https://masashi-hatano.github.io/MM-CDFSL/) [[Code]](https://github.com/masashi-hatano/MM-CDFSL)
+- LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning **(ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2312.03849) [[Project]](https://bolinlai.github.io/Lego_EgoActGen/) [[Code]](https://github.com/BolinLai/LEGO)
 - EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2406.08877) [[Code]](https://github.com/iSEE-Laboratory/EgoExo-Fitness/tree/main)
 - Multi-Factor Adaptive Vision Selection for Egocentric Video Question Answering **(ICML 2024)** [[Paper]](https://openreview.net/pdf?id=u00dmbI8Db)
 - Grounded Question-Answering in Long Egocentric Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Di_Grounded_Question-Answering_in_Long_Egocentric_Videos_CVPR_2024_paper.html)
