@@ -16,7 +16,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 **Yearly Key words**: Ego-Pose, New Dataset, 3D, Ego-Exo, Multi-modality, HOI, Mistake Detection
 - EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.19811)
 - EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions? **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.17719) [[Code]](https://github.com/xuboshen/EgoNCEpp)
-- Put Myself in Your Shoes: Lifting the Egocentric Perspective from Exocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.04370) [[Citations]](https://scholar.google.com/scholar?cites=17491620542590999599&as_sdt=2005&sciodt=0,5&hl=en)
+- Put Myself in Your Shoes: Lifting the Egocentric Perspective from Exocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.06351) [[Citations]](https://scholar.google.com/scholar?cites=17491620542590999599&as_sdt=2005&sciodt=0,5&hl=en)
 - Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2405.04370)
 - EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.13659)
 - Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2404.05072) [[Project]](https://dimadamen.github.io/OSNOM/)
