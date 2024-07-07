@@ -19,7 +19,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Put Myself in Your Shoes: Lifting the Egocentric Perspective from Exocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.04370) [[Citations]](https://scholar.google.com/scholar?cites=17491620542590999599&as_sdt=2005&sciodt=0,5&hl=en)
 - Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2405.04370)
 - EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.13659)
-- Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind **(ArXiv 2024)**
+- Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2404.05072)
 - EgoLifter: Open-world 3D Segmentation for Egocentric Perception **(ArXiv 2024)** [[Project]](https://egolifter.github.io/#) [[Paper]](https://arxiv.org/abs/2403.18118)
 - HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2404.09933) [[Code]](https://github.com/Sid2697/HOI-Ref)
 - Intention-driven Ego-to-Exo Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.09194)
