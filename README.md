@@ -38,7 +38,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Learning Spatial Features from Audio-Visual Correspondence in Egocentric Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Majumder_Learning_Spatial_Features_from_Audio-Visual_Correspondence_in_Egocentric_Videos_CVPR_2024_paper.html)
 - SoundingActions: Learning How Actions Sound from Narrated Egocentric Videos **(CVPR 2024)**
 - PREGO: online mistake detection in PRocedural EGOcentric videos **(CVPR 2024)** [[Paper]](https://arxiv.org/abs/2404.01933) [[Code]](https://github.com/aleflabo/PREGO)
-- Error Detection in Egocentric Procedural Task Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html)
+- Error Detection in Egocentric Procedural Task Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Lee_Error_Detection_in_Egocentric_Procedural_Task_Videos_CVPR_2024_paper.html) [[Code]](EgoExo_Fitness_CLIP_Vid_Feat_w_Rotate)
 - 3D Human Pose Perception from Egocentric Stereo Videos **(CVPR 2024)**
 - EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams **(CVPR 2024)** [[Project]](https://4dqv.mpi-inf.mpg.de/EventEgo3D/) [[Paper]](https://arxiv.org/pdf/2404.08640.pdf)
 - Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Egocentric_Whole-Body_Motion_Capture_with_FisheyeViT_and_Diffusion-Based_Motion_Refinement_CVPR_2024_paper.html)
