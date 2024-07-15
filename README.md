@@ -8,7 +8,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 💥 **NEWS: Some of ECCV-2024 papers are updated.**
 
 ### Survey
-- A Survey on 3D Egocentric Human Pose Estimation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.17893)
+- A Survey on 3D Egocentric Human Pose Estimation **(CVPRW 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/Rhobin/html/Azam_A_Survey_on_3D_Egocentric_Human_Pose_Estimation_CVPRW_2024_paper.html)
 - An Outlook into the Future of Egocentric Vision **(IJCV 2024)** [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02095-7) [[Citations]](https://scholar.google.com/scholar?cites=15098752443409016265&as_sdt=2005&sciodt=0,5&hl=en)
  
 
