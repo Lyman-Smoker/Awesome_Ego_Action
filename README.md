@@ -28,6 +28,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://masashi-hatano.github.io/assets/pdf/mm-cdfsl.pdf) [[Project]](https://masashi-hatano.github.io/MM-CDFSL/) [[Code]](https://github.com/masashi-hatano/MM-CDFSL)
 - LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning **(ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2312.03849) [[Project]](https://bolinlai.github.io/Lego_EgoActGen/) [[Code]](https://github.com/BolinLai/LEGO)
 - EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2406.08877) [[Code]](https://github.com/iSEE-Laboratory/EgoExo-Fitness/tree/main)
+- SimpleEgo: Predicting Probabilistic Body Pose from Egocentric Cameras **(3DV 2024)** [[Paper]](https://arxiv.org/abs/2401.14785)
 - Multi-Factor Adaptive Vision Selection for Egocentric Video Question Answering **(ICML 2024)** [[Paper]](https://openreview.net/pdf?id=u00dmbI8Db)
 - Grounded Question-Answering in Long Egocentric Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Di_Grounded_Question-Answering_in_Long_Egocentric_Videos_CVPR_2024_paper.html)
 - Learning to Segment Referred Objects from Narrated Egocentric Videos **(CVPR 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Shen_Learning_to_Segment_Referred_Objects_from_Narrated_Egocentric_Videos_CVPR_2024_paper.pdf)
