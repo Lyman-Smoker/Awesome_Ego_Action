@@ -28,6 +28,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2404.09933) [[Code]](https://github.com/Sid2697/HOI-Ref)
 - Intention-driven Ego-to-Exo Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.09194)
 ----
+- EgoCVR: An Egocentric Benchmark for Fine-Grained Composed Video Retrieval **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2407.16658) [[Code]](https://github.com/ExplainableML/EgoCVR)
 - Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://masashi-hatano.github.io/assets/pdf/mm-cdfsl.pdf) [[Project]](https://masashi-hatano.github.io/MM-CDFSL/) [[Code]](https://github.com/masashi-hatano/MM-CDFSL)
 - LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning **(ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2312.03849) [[Project]](https://bolinlai.github.io/Lego_EgoActGen/) [[Code]](https://github.com/BolinLai/LEGO)
 - EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2403.18080)
