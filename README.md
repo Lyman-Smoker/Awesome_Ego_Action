@@ -31,6 +31,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://masashi-hatano.github.io/assets/pdf/mm-cdfsl.pdf) [[Project]](https://masashi-hatano.github.io/MM-CDFSL/) [[Code]](https://github.com/masashi-hatano/MM-CDFSL)
 - LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning **(ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2312.03849) [[Project]](https://bolinlai.github.io/Lego_EgoActGen/) [[Code]](https://github.com/BolinLai/LEGO)
 - EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2403.18080)
+- 3D Hand Pose Estimation in Everyday Egocentric Images **(ECCV 2024)** [[Paper]](https://ap229997.github.io/projects/hands/assets/paper.pdf) [[Project]](https://ap229997.github.io/projects/hands/)
 - EgoLifter: Open-world 3D Segmentation for Egocentric Perception **(ECCV 2024)** [[Project]](https://egolifter.github.io/#) [[Paper]](https://arxiv.org/abs/2403.18118)
 - Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2406.09905) [[Project]](https://www.projectaria.com/datasets/nymeria/)
 - EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2406.08877) [[Code]](https://github.com/iSEE-Laboratory/EgoExo-Fitness/tree/main)
