@@ -29,6 +29,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Intention-driven Ego-to-Exo Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.09194)
 ----
 - Ego3DT: Tracking All 3D Objects in Ego-Centric Video of Daily Activities **(ACMMM 2024)**
+- Spherical World-Locking for Audio-Visual Localization in Egocentric Videos **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2408.05364) [[Project]](https://hs-yn.github.io/SWL/)
 - Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://masashi-hatano.github.io/assets/pdf/mm-cdfsl.pdf) [[Project]](https://masashi-hatano.github.io/MM-CDFSL/) [[Code]](https://github.com/masashi-hatano/MM-CDFSL)
 - LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning **(ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2312.03849) [[Project]](https://bolinlai.github.io/Lego_EgoActGen/) [[Code]](https://github.com/BolinLai/LEGO)
 - EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2403.18080)
