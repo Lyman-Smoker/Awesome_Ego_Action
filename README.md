@@ -18,6 +18,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - HUP-3D: A 3D multi-view synthetic dataset for assisted-egocentric hand-ultrasound pose estimation **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2407.09215)
 - Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2407.0662801)
 - PARSE-Ego4D: Personal Action Recommendation Suggestions for Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2407.09503) [[Project]](https://parse-ego4d.github.io)
+- Egocentric Vision Language Planning **(ArXiv)** [[Paper]](https://arxiv.org/abs/2408.05802)
 - EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.19811)
 - EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions? **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.17719) [[Code]](https://github.com/xuboshen/EgoNCEpp)
 - Put Myself in Your Shoes: Lifting the Egocentric Perspective from Exocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.06351) [[Citations]](https://scholar.google.com/scholar?cites=17491620542590999599&as_sdt=2005&sciodt=0,5&hl=en)
