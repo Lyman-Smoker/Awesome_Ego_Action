@@ -17,7 +17,6 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2408.14469) [[Project]](https://qirui-chen.github.io/MultiHop-EgoQA/) [[Code]](https://github.com/qirui-chen/MultiHop-EgoQA)
 - Unlocking Exocentric Video-Language Data for Egocentric Video Representation Learning **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2408.03567)
 - HUP-3D: A 3D multi-view synthetic dataset for assisted-egocentric hand-ultrasound pose estimation **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2407.09215)
-- Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2407.0662801)
 - PARSE-Ego4D: Personal Action Recommendation Suggestions for Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2407.09503) [[Project]](https://parse-ego4d.github.io)
 - Egocentric Vision Language Planning **(ArXiv)** [[Paper]](https://arxiv.org/abs/2408.05802)
 - EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.19811)
@@ -30,19 +29,26 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Intention-driven Ego-to-Exo Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.09194)
 ----
 - Ego3DT: Tracking All 3D Objects in Ego-Centric Video of Daily Activities **(ACMMM 2024)**
+- Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://masashi-hatano.github.io/assets/pdf/mm-cdfsl.pdf) [[Project]](https://masashi-hatano.github.io/MM-CDFSL/) [[Code]](https://github.com/masashi-hatano/MM-CDFSL)
+- Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2407.0662801)
 - AMEGO: Active Memory from long EGOcentric videos **(ECCV 2024)**
+- Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection? **(ECCV 2024)**
 - Discovering Novel Actions from Open World Egocentric Videos with Object-Grounded Visual Commonsense Reasoning **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2305.16602)
+- Action2Sound: Ambient-Aware Generation of Action Sounds from Egocentric Videos **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2406.09272) [[Project]](https://vision.cs.utexas.edu/projects/action2sound/)
 - Listen to Look into the Future: Audio-Visual Egocentric Gaze Anticipation **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2305.03907)
 - Spherical World-Locking for Audio-Visual Localization in Egocentric Videos **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2408.05364) [[Project]](https://hs-yn.github.io/SWL/)
-- Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://masashi-hatano.github.io/assets/pdf/mm-cdfsl.pdf) [[Project]](https://masashi-hatano.github.io/MM-CDFSL/) [[Code]](https://github.com/masashi-hatano/MM-CDFSL)
 - LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning **(ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2312.03849) [[Project]](https://bolinlai.github.io/Lego_EgoActGen/) [[Code]](https://github.com/BolinLai/LEGO)
 - Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2403.16428)
+- EgoPoser: Robust Real-Time Ego-Body Pose Estimation in Large Scenes **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2308.06493)
 - EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2403.18080)
+- EgoBodu3M: Egocentric Body Tracking on a VR Headset using a Diverse Dataset **(ECCV 2024)**
 - 3D Hand Pose Estimation in Everyday Egocentric Images **(ECCV 2024)** [[Paper]](https://ap229997.github.io/projects/hands/assets/paper.pdf) [[Project]](https://ap229997.github.io/projects/hands/)
 - Put Myself in Your Shoes: Lifting the Egocentric Perspective from Exocentric Videos **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2403.06351) [[Citations]](https://scholar.google.com/scholar?cites=17491620542590999599&as_sdt=2005&sciodt=0,5&hl=en)
 - EgoLifter: Open-world 3D Segmentation for Egocentric Perception **(ECCV 2024)** [[Project]](https://egolifter.github.io/#) [[Paper]](https://arxiv.org/abs/2403.18118)
 - Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2406.09905) [[Project]](https://www.projectaria.com/datasets/nymeria/)
 - EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2406.08877) [[Code]](https://github.com/iSEE-Laboratory/EgoExo-Fitness/tree/main)
+- Ex2Eg-MAE: A Framework for Adaptation of Exocentric Video Masked Autoencoders for Egocentric Social Role Understanding **(ECCV 2024)**
+- Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2312.02638) [[Code]](https://github.com/fpv-iplab/synchronization-is-all-you-need)
 - EgoCVR: An Egocentric Benchmark for Fine-Grained Composed Video Retrieval **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2407.16658) [[Code]](https://github.com/ExplainableML/EgoCVR)
 - SimpleEgo: Predicting Probabilistic Body Pose from Egocentric Cameras **(3DV 2024)** [[Paper]](https://arxiv.org/abs/2401.14785)
 - Multi-Factor Adaptive Vision Selection for Egocentric Video Question Answering **(ICML 2024)** [[Paper]](https://openreview.net/pdf?id=u00dmbI8Db) [[Code]](https://github.com/Hyu-Zhang/EgoVideoQA)
