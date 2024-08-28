@@ -3,9 +3,7 @@ Egocentric Action Understanding (EAU) aims at understanding human actions based 
 
 In this reprository, interetsting papers in EAU are collected to show the development of the EAU community.
 
-💥 **NEWS: CVPR-2024 & ICML-2024 papers are added to the list.**
-
-💥 **NEWS: Some of ECCV-2024 papers are updated.**
+💥 **NEWS: ECCV-2024 papers are added to the list.**
 
 ### Survey
 - A Survey on 3D Egocentric Human Pose Estimation **(CVPRW 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/Rhobin/html/Azam_A_Survey_on_3D_Egocentric_Human_Pose_Estimation_CVPRW_2024_paper.html)
@@ -13,7 +11,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
  
 
 ### 2024
-**Yearly Key words**: Ego-Pose, New Dataset, 3D, Ego-Exo, Multi-modality, HOI, Mistake Detection
+**Yearly Key words**: Ego-Pose, New Dataset, 3D, Ego-Exo, Multi-modality, HOI, Mistake Detection, Audio-Visual
 - Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2408.14469) [[Project]](https://qirui-chen.github.io/MultiHop-EgoQA/) [[Code]](https://github.com/qirui-chen/MultiHop-EgoQA)
 - Unlocking Exocentric Video-Language Data for Egocentric Video Representation Learning **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2408.03567)
 - HUP-3D: A 3D multi-view synthetic dataset for assisted-egocentric hand-ultrasound pose estimation **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2407.09215)
