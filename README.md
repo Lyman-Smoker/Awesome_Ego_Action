@@ -22,7 +22,6 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Egocentric Vision Language Planning **(ArXiv)** [[Paper]](https://arxiv.org/abs/2408.05802)
 - EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.19811)
 - EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions? **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.17719) [[Code]](https://github.com/xuboshen/EgoNCEpp)
-- Put Myself in Your Shoes: Lifting the Egocentric Perspective from Exocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.06351) [[Citations]](https://scholar.google.com/scholar?cites=17491620542590999599&as_sdt=2005&sciodt=0,5&hl=en)
 - Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2405.04370)
 - EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.13659) [[Code]](https://github.com/yyvhang/EgoChoir_release) [[Project]](https://yyvhang.github.io/EgoChoir/)
 - Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2404.05072) [[Project]](https://dimadamen.github.io/OSNOM/)
@@ -31,11 +30,16 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Intention-driven Ego-to-Exo Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.09194)
 ----
 - Ego3DT: Tracking All 3D Objects in Ego-Centric Video of Daily Activities **(ACMMM 2024)**
+- AMEGO: Active Memory from long EGOcentric videos **(ECCV 2024)**
+- Discovering Novel Actions from Open World Egocentric Videos with Object-Grounded Visual Commonsense Reasoning **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2305.16602)
+- Listen to Look into the Future: Audio-Visual Egocentric Gaze Anticipation **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2305.03907)
 - Spherical World-Locking for Audio-Visual Localization in Egocentric Videos **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2408.05364) [[Project]](https://hs-yn.github.io/SWL/)
 - Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://masashi-hatano.github.io/assets/pdf/mm-cdfsl.pdf) [[Project]](https://masashi-hatano.github.io/MM-CDFSL/) [[Code]](https://github.com/masashi-hatano/MM-CDFSL)
 - LEGO: Learning EGOcentric Action Frame Generation via Visual Instruction Tuning **(ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2312.03849) [[Project]](https://bolinlai.github.io/Lego_EgoActGen/) [[Code]](https://github.com/BolinLai/LEGO)
+- Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2403.16428)
 - EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2403.18080)
 - 3D Hand Pose Estimation in Everyday Egocentric Images **(ECCV 2024)** [[Paper]](https://ap229997.github.io/projects/hands/assets/paper.pdf) [[Project]](https://ap229997.github.io/projects/hands/)
+- Put Myself in Your Shoes: Lifting the Egocentric Perspective from Exocentric Videos **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2403.06351) [[Citations]](https://scholar.google.com/scholar?cites=17491620542590999599&as_sdt=2005&sciodt=0,5&hl=en)
 - EgoLifter: Open-world 3D Segmentation for Egocentric Perception **(ECCV 2024)** [[Project]](https://egolifter.github.io/#) [[Paper]](https://arxiv.org/abs/2403.18118)
 - Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2406.09905) [[Project]](https://www.projectaria.com/datasets/nymeria/)
 - EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2406.08877) [[Code]](https://github.com/iSEE-Laboratory/EgoExo-Fitness/tree/main)
