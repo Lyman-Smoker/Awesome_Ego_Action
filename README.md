@@ -22,12 +22,12 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.19811)
 - EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions? **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.17719) [[Code]](https://github.com/xuboshen/EgoNCEpp)
 - Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2405.04370)
-- EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.13659) [[Code]](https://github.com/yyvhang/EgoChoir_release) [[Project]](https://yyvhang.github.io/EgoChoir/)
 - Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2404.05072) [[Project]](https://dimadamen.github.io/OSNOM/)
 - EFM3D: A Benchmark for Measuring Progress Towards 3D Egocentric Foundation Models **(ArXiv)** [[Paper]](https://arxiv.org/pdf/2406.10224)
 - HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2404.09933) [[Code]](https://github.com/Sid2697/HOI-Ref)
 - Intention-driven Ego-to-Exo Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.09194)
 ----
+- EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views **(NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2405.13659) [[Code]](https://github.com/yyvhang/EgoChoir_release) [[Project]](https://yyvhang.github.io/EgoChoir/)
 - Ego3DT: Tracking All 3D Objects in Ego-Centric Video of Daily Activities **(ACMMM 2024)**
 - Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://masashi-hatano.github.io/assets/pdf/mm-cdfsl.pdf) [[Project]](https://masashi-hatano.github.io/MM-CDFSL/) [[Code]](https://github.com/masashi-hatano/MM-CDFSL)
 - Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2407.0662801)
