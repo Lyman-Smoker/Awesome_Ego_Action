@@ -32,8 +32,8 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - 4Diff: 3D-Aware Diffusion Model for Third-to-First Viewpoint Translation **(ECCV 2024)** [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03536.pdf) [[Project]](https://klauscc.github.io/4diff)
 - Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://masashi-hatano.github.io/assets/pdf/mm-cdfsl.pdf) [[Project]](https://masashi-hatano.github.io/MM-CDFSL/) [[Code]](https://github.com/masashi-hatano/MM-CDFSL)
 - Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2407.0662801)
-- AMEGO: Active Memory from long EGOcentric videos **(ECCV 2024)**
-- Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection? **(ECCV 2024)**
+- AMEGO: Active Memory from long EGOcentric videos **(ECCV 2024)** [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02032.pdf) [[Project]](https://gabrielegoletto.github.io/AMEGO/) [[Code]](https://github.com/gabrielegoletto/AMEGO)
+- Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection? **(ECCV 2024)** 
 - ActionVOS: Actions as Prompts for Video Object Segmentation **(ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2407.07402) [[Code]](https://github.com/ut-vision/ActionVOS)
 - Discovering Novel Actions from Open World Egocentric Videos with Object-Grounded Visual Commonsense Reasoning **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2305.16602)
 - Action2Sound: Ambient-Aware Generation of Action Sounds from Egocentric Videos **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2406.09272) [[Project]](https://vision.cs.utexas.edu/projects/action2sound/)
@@ -43,7 +43,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Benchmarks and Challenges in Pose Estimation for Egocentric Hand Interactions with Objects **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2403.16428)
 - EgoPoser: Robust Real-Time Ego-Body Pose Estimation in Large Scenes **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2308.06493)
 - EgoPoseFormer: A Simple Baseline for Egocentric 3D Human Pose Estimation **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2403.18080)
-- EgoBodu3M: Egocentric Body Tracking on a VR Headset using a Diverse Dataset **(ECCV 2024)**
+- EgoBodu3M: Egocentric Body Tracking on a VR Headset using a Diverse Dataset **(ECCV 2024)** [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/10261.pdf)
 - 3D Hand Pose Estimation in Everyday Egocentric Images **(ECCV 2024)** [[Paper]](https://ap229997.github.io/projects/hands/assets/paper.pdf) [[Project]](https://ap229997.github.io/projects/hands/)
 - Put Myself in Your Shoes: Lifting the Egocentric Perspective from Exocentric Videos **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2403.06351) [[Citations]](https://scholar.google.com/scholar?cites=17491620542590999599&as_sdt=2005&sciodt=0,5&hl=en)
 - EgoLifter: Open-world 3D Segmentation for Egocentric Perception **(ECCV 2024)** [[Project]](https://egolifter.github.io/#) [[Paper]](https://arxiv.org/abs/2403.18118)
