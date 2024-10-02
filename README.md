@@ -29,6 +29,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 ----
 - EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views **(NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2405.13659) [[Code]](https://github.com/yyvhang/EgoChoir_release) [[Project]](https://yyvhang.github.io/EgoChoir/)
 - Ego3DT: Tracking All 3D Objects in Ego-Centric Video of Daily Activities **(ACMMM 2024)**
+- 4Diff: 3D-Aware Diffusion Model for Third-to-First Viewpoint Translation **(ECCV 2024)** [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03536.pdf) [[Project]](https://klauscc.github.io/4diff)
 - Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://masashi-hatano.github.io/assets/pdf/mm-cdfsl.pdf) [[Project]](https://masashi-hatano.github.io/MM-CDFSL/) [[Code]](https://github.com/masashi-hatano/MM-CDFSL)
 - Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2407.0662801)
 - AMEGO: Active Memory from long EGOcentric videos **(ECCV 2024)**
