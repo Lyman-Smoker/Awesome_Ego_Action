@@ -33,7 +33,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Multimodal Cross-Domain Few-Shot Learning for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://masashi-hatano.github.io/assets/pdf/mm-cdfsl.pdf) [[Project]](https://masashi-hatano.github.io/MM-CDFSL/) [[Code]](https://github.com/masashi-hatano/MM-CDFSL)
 - Masked Video and Body-worn IMU Autoencoder for Egocentric Action Recognition **(ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2407.0662801)
 - AMEGO: Active Memory from long EGOcentric videos **(ECCV 2024)** [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02032.pdf) [[Project]](https://gabrielegoletto.github.io/AMEGO/) [[Code]](https://github.com/gabrielegoletto/AMEGO)
-- Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection? **(ECCV 2024)** 
+- Are Synthetic Data Useful for Egocentric Hand-Object Interaction Detection? **(ECCV 2024)** [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08953.pdf) [[Project]](https://fpv-iplab.github.io/HOI-Synth/) [[Code]](https://github.com/fpv-iplab/HOI-Synth)
 - ActionVOS: Actions as Prompts for Video Object Segmentation **(ECCV 2024)** [[Paper]](https://arxiv.org/pdf/2407.07402) [[Code]](https://github.com/ut-vision/ActionVOS)
 - Discovering Novel Actions from Open World Egocentric Videos with Object-Grounded Visual Commonsense Reasoning **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2305.16602)
 - Action2Sound: Ambient-Aware Generation of Action Sounds from Egocentric Videos **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2406.09272) [[Project]](https://vision.cs.utexas.edu/projects/action2sound/)
