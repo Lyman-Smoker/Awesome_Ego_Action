@@ -49,7 +49,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - EgoLifter: Open-world 3D Segmentation for Egocentric Perception **(ECCV 2024)** [[Project]](https://egolifter.github.io/#) [[Paper]](https://arxiv.org/abs/2403.18118)
 - Nymeria: A Massive Collection of Multimodal Egocentric Daily Motion in the Wild **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2406.09905) [[Project]](https://www.projectaria.com/datasets/nymeria/)
 - EgoExo-Fitness: Towards Egocentric and Exocentric Full-Body Action Understanding **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2406.08877) [[Code]](https://github.com/iSEE-Laboratory/EgoExo-Fitness/tree/main)
-- Ex2Eg-MAE: A Framework for Adaptation of Exocentric Video Masked Autoencoders for Egocentric Social Role Understanding **(ECCV 2024)**
+- Ex2Eg-MAE: A Framework for Adaptation of Exocentric Video Masked Autoencoders for Egocentric Social Role Understanding **(ECCV 2024)** [[Paper]](https://www.amazon.science/publications/ex2eg-mae-a-framework-for-adaptation-of-exocentric-video-masked-autoencoders-for-egocentric-social-role-understanding)
 - Synchronization is All You Need: Exocentric-to-Egocentric Transfer for Temporal Action Segmentation with Unlabeled Synchronized Video Pairs **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2312.02638) [[Code]](https://github.com/fpv-iplab/synchronization-is-all-you-need)
 - EgoCVR: An Egocentric Benchmark for Fine-Grained Composed Video Retrieval **(ECCV 2024)** [[Paper]](https://arxiv.org/abs/2407.16658) [[Code]](https://github.com/ExplainableML/EgoCVR)
 - SimpleEgo: Predicting Probabilistic Body Pose from Egocentric Cameras **(3DV 2024)** [[Paper]](https://arxiv.org/abs/2401.14785)
