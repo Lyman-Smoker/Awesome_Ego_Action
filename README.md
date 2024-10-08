@@ -12,6 +12,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 
 ### 2024
 **Yearly Key words**: Ego-Pose, New Dataset, 3D, Ego-Exo, Multi-modality, HOI, Mistake Detection, Audio-Visual
+- Estimating Body and Hand Motion in an Ego-sensed World **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2410.03665) [[Project]](https://egoallo.github.io) [[Code]](https://github.com/brentyi/egoallo)
 - HMD2: Environment-aware Motion Generation from Single Egocentric Head-Mounted Device **(ArXiv 2024)**
 - EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2408.17168)
 - Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2408.14469) [[Project]](https://qirui-chen.github.io/MultiHop-EgoQA/) [[Code]](https://github.com/qirui-chen/MultiHop-EgoQA)
