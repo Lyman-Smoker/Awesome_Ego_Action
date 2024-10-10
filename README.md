@@ -11,7 +11,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
  
 
 ### 2024
-**Yearly Key words**: Ego-Pose, New Dataset, 3D, Ego-Exo, Multi-Modality, HOI, Mistake Detection, Audio-Visual, Ego-LLM
+**Yearly Key words**: Ego-LLM🔥, Ego-Motion🔥, New Dataset, 3D, Ego-Exo, Multi-Modality, HOI, Mistake Detection, Audio-Visual
 - EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts **(ArXiv 2024)**
 - MM-Ego: Towards Building Egocentric Multimodal LLMs **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2410.07177)
 - EGOLM: Multi-modal Language Model of Egocentric Motions **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2409.18127) [[Project]](https://hongfz16.github.io/projects/EgoLM)
