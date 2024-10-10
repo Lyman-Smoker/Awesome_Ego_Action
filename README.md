@@ -15,6 +15,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts **(ArXiv 2024)**
 - MM-Ego: Towards Building Egocentric Multimodal LLMs **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2410.07177)
 - EGOLM: Multi-modal Language Model of Egocentric Motions **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2409.18127) [[Project]](https://hongfz16.github.io/projects/EgoLM)
+- EgoAvatar: Egocentric View-Driven and Photorealistic Full-body Avatars **(ArXiv)** [[Paper]](https://arxiv.org/pdf/2410.01835)
 - Estimating Body and Hand Motion in an Ego-sensed World **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2410.03665) [[Project]](https://egoallo.github.io) [[Code]](https://github.com/brentyi/egoallo)
 - HMD2: Environment-aware Motion Generation from Single Egocentric Head-Mounted Device **(ArXiv 2024)**
 - EMHI: A Multimodal Egocentric Human Motion Dataset with HMD and Body-Worn IMUs **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2408.17168)
@@ -31,8 +32,10 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2404.09933) [[Code]](https://github.com/Sid2697/HOI-Ref)
 - Intention-driven Ego-to-Exo Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.09194)
 ----
-- HENASY: Learning to Assemble Scene-Entities for Interpretable Egocentric Video-Language Model **(NeurIPS 2024)**
+- Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos **(NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2406.01486) [[Code]](https://github.com/fpv-iplab/Differentiable-Task-Graph-Learning)
+- HENASY: Learning to Assemble Scene-Entities for Interpretable Egocentric Video-Language Model **(NeurIPS 2024)** [[Paper]](https://arxiv.org/pdf/2406.0307)
 - EgoSim: An Egocentric Multi-view Simulator for Body-worn Cameras during Human Motion **(NeurIPS 2024)**
+- Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data **(NeurIPS 2024)**
 - EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views **(NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2405.13659) [[Code]](https://github.com/yyvhang/EgoChoir_release) [[Project]](https://yyvhang.github.io/EgoChoir/)
 - Ego3DT: Tracking All 3D Objects in Ego-Centric Video of Daily Activities **(ACMMM 2024)**
 - 4Diff: 3D-Aware Diffusion Model for Third-to-First Viewpoint Translation **(ECCV 2024)** [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03536.pdf) [[Project]](https://klauscc.github.io/4diff)
