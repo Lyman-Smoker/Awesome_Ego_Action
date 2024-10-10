@@ -3,7 +3,7 @@ Egocentric Action Understanding (EAU) aims at understanding human actions based 
 
 In this reprository, interetsting papers in EAU are collected to show the development of the EAU community.
 
-💥 **NEWS: ECCV-2024 papers are added to the list.**
+💥 **NEWS: NeurIPS-2024 papers are added to the list.**
 
 ### Survey
 - A Survey on 3D Egocentric Human Pose Estimation **(CVPRW 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/Rhobin/html/Azam_A_Survey_on_3D_Egocentric_Human_Pose_Estimation_CVPRW_2024_paper.html)
@@ -31,6 +31,8 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2404.09933) [[Code]](https://github.com/Sid2697/HOI-Ref)
 - Intention-driven Ego-to-Exo Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.09194)
 ----
+- HENASY: Learning to Assemble Scene-Entities for Interpretable Egocentric Video-Language Model **(NeurIPS 2024)**
+- EgoSim: An Egocentric Multi-view Simulator for Body-worn Cameras during Human Motion **(NeurIPS 2024)**
 - EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views **(NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2405.13659) [[Code]](https://github.com/yyvhang/EgoChoir_release) [[Project]](https://yyvhang.github.io/EgoChoir/)
 - Ego3DT: Tracking All 3D Objects in Ego-Centric Video of Daily Activities **(ACMMM 2024)**
 - 4Diff: 3D-Aware Diffusion Model for Third-to-First Viewpoint Translation **(ECCV 2024)** [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03536.pdf) [[Project]](https://klauscc.github.io/4diff)
