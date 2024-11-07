@@ -37,7 +37,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos **(NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2406.01486) [[Code]](https://github.com/fpv-iplab/Differentiable-Task-Graph-Learning)
 - HENASY: Learning to Assemble Scene-Entities for Interpretable Egocentric Video-Language Model **(NeurIPS 2024)** [[Paper]](https://arxiv.org/pdf/2406.0307)
 - EgoSim: An Egocentric Multi-view Simulator for Body-worn Cameras during Human Motion **(NeurIPS 2024)**
-- Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data **(NeurIPS 2024)**
+- Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data **(NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2411.03561)
 - EgoChoir: Capturing 3D Human-Object Interaction Regions from Egocentric Views **(NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2405.13659) [[Code]](https://github.com/yyvhang/EgoChoir_release) [[Project]](https://yyvhang.github.io/EgoChoir/)
 - Ego3DT: Tracking All 3D Objects in Ego-Centric Video of Daily Activities **(ACMMM 2024)**
 - 4Diff: 3D-Aware Diffusion Model for Third-to-First Viewpoint Translation **(ECCV 2024)** [[Paper]](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03536.pdf) [[Project]](https://klauscc.github.io/4diff)
