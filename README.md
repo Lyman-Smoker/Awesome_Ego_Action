@@ -35,6 +35,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Intention-driven Ego-to-Exo Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2403.09194)
 ----
 - Differentiable Task Graph Learning: Procedural Activity Representation and Online Mistake Detection from Egocentric Videos **(NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2406.01486) [[Code]](https://github.com/fpv-iplab/Differentiable-Task-Graph-Learning)
+- Exocentric-to-Egocentric Video Generation **(NeurIPS 2024)** [[Paper]](https://openreview.net/pdf?id=UHDCbIrCFL) [[Code]](https://github.com/showlab/Exo2Ego-V)
 - HENASY: Learning to Assemble Scene-Entities for Interpretable Egocentric Video-Language Model **(NeurIPS 2024)** [[Paper]](https://arxiv.org/pdf/2406.0307)
 - EgoSim: An Egocentric Multi-view Simulator for Body-worn Cameras during Human Motion **(NeurIPS 2024)**
 - Estimating Ego-Body Pose from Doubly Sparse Egocentric Video Data **(NeurIPS 2024)** [[Paper]](https://arxiv.org/abs/2411.03561)
