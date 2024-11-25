@@ -12,7 +12,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
  
 
 ### 2024
-**Yearly Key words**: Ego-LLM🔥, Ego-Motion🔥, New Dataset, 3D, Ego-Exo, Multi-Modality, HOI, Mistake Detection, Audio-Visual
+**Yearly Key words**: Ego-LLM🔥, Ego-Motion🔥, New Dataset, 3D, Ego-Exo, Multi-Modality, HOI, Mistake Detection, Video Generation
 - EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2411.08380) [[Project]](https://egovid.github.io) [[Code]](https://github.com/JeffWang987/EgoVid)
 - VidEgoThink: ASSESSING EGOCENTRIC VIDEO UNDERSTANDING CAPABILITIES FOR EMBODIED AI **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2410.11623)
 - EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts **(ArXiv 2024)**
