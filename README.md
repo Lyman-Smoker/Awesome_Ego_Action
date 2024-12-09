@@ -17,7 +17,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Which Viewpoint Shows it Best? Language for Weakly Supervising View Selection in Multi-view Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2411.08753?)
 - EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2411.08380) [[Project]](https://egovid.github.io) [[Code]](https://github.com/JeffWang987/EgoVid)
 - VidEgoThink: ASSESSING EGOCENTRIC VIDEO UNDERSTANDING CAPABILITIES FOR EMBODIED AI **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2410.11623)
-- EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts **(ArXiv 2024)**
+- EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2410.05343) [[Project]](https://y-haneji.github.io/EgoOops-project-page/)
 - MM-Ego: Towards Building Egocentric Multimodal LLMs **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2410.07177)
 - EGOLM: Multi-modal Language Model of Egocentric Motions **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2409.18127) [[Project]](https://hongfz16.github.io/projects/EgoLM)
 - EgoAvatar: Egocentric View-Driven and Photorealistic Full-body Avatars **(ArXiv)** [[Paper]](https://arxiv.org/pdf/2410.01835)
