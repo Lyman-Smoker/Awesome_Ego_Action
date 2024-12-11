@@ -10,6 +10,9 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - A Survey on 3D Egocentric Human Pose Estimation **(CVPRW 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/Rhobin/html/Azam_A_Survey_on_3D_Egocentric_Human_Pose_Estimation_CVPRW_2024_paper.html)
 - An Outlook into the Future of Egocentric Vision **(IJCV 2024)** [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02095-7) [[Citations]](https://scholar.google.com/scholar?cites=15098752443409016265&as_sdt=2005&sciodt=0,5&hl=en)
  
+### 2025
+- EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting **(3DV 2025)** [[Paper]](https://arxiv.org/abs/2406.19811)
+
 
 ### 2024
 **Yearly Key words**: Ego-LLM🔥, Ego-Motion🔥, New Dataset, 3D, Ego-Exo, Multi-Modality, HOI, Mistake Detection, Video Generation
@@ -29,7 +32,6 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - HUP-3D: A 3D multi-view synthetic dataset for assisted-egocentric hand-ultrasound pose estimation **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2407.09215)
 - PARSE-Ego4D: Personal Action Recommendation Suggestions for Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2407.09503) [[Project]](https://parse-ego4d.github.io)
 - Egocentric Vision Language Planning **(ArXiv)** [[Paper]](https://arxiv.org/abs/2408.05802)
-- EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2406.19811)
 - EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions? **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.17719) [[Code]](https://github.com/xuboshen/EgoNCEpp)
 - Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2405.04370)
 - Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2404.05072) [[Project]](https://dimadamen.github.io/OSNOM/)
