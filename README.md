@@ -11,6 +11,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - An Outlook into the Future of Egocentric Vision **(IJCV 2024)** [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02095-7) [[Citations]](https://scholar.google.com/scholar?cites=15098752443409016265&as_sdt=2005&sciodt=0,5&hl=en)
  
 ### 2025
+- Hier-EgoPack: Hierarchical Egocentric Video Understanding with Diverse Task Perspectives **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2502.02487) [[Project]](https://sapeirone.github.io/hier-egopack/) [[Code]](https://github.com/sapeirone/hier-egopack)
 - EgoMe: Follow Me via Egocentric View in Real World **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2501.19061)
 - X-LeBench: A Benchmark for Extremely Long Egocentric Video Understanding **(ArXiv 2025)** [[Paper]](https://arxiv.org/pdf/2501.06835) 
 - From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities **(ArXiv 2025)** [[Paper]](https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/2501.05711&hl=en&sa=X&d=15963210349319454899&ei=XsiHZ43qDsqP6rQPyMv1qAE&scisig=AFWwaebX5sI6CP2D-Cb5R9rZOElZ&oi=scholaralrt&hist=ONJGBd0AAAAJ:632665305411281596:AFWwaeaGFMP0lGJczGMEoN9U1gLF&html=&pos=0&folt=kw)
