@@ -3,7 +3,7 @@ Egocentric Action Understanding (EAU) aims at understanding human actions based 
 
 In this reprository, interetsting papers in EAU are collected to show the development of the EAU community.
 
-💥 **NEWS: NeurIPS-2024 papers are added to the list.**
+💥 **NEWS: ICLR-2025 papers are added to the list.**
 
 ### Survey
 - Exocentric To Egocentric Transfer For Action Recognition: A Short Survey **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2410.20621)
