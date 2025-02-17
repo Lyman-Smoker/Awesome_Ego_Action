@@ -22,6 +22,9 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities **(ArXiv 2025)** [[Paper]](https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/2501.05711&hl=en&sa=X&d=15963210349319454899&ei=XsiHZ43qDsqP6rQPyMv1qAE&scisig=AFWwaebX5sI6CP2D-Cb5R9rZOElZ&oi=scholaralrt&hist=ONJGBd0AAAAJ:632665305411281596:AFWwaeaGFMP0lGJczGMEoN9U1gLF&html=&pos=0&folt=kw)
 - HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2501.02973) [[Project]](https://hawor-project.github.io/)
 ----
+- X-GEN: EGO-CENTRIC VIDEO PREDICTION BY WATCHING EXO-CENTRIC VIDEOS **(ICLR 2025)** [[Paper]](https://openreview.net/pdf?id=8J2DrrWDKE)
+- MODELING FINE-GRAINED HAND-OBJECT DYNAMICS FOR EGOCENTRIC VIDEO REPRESENTATION LEARNING **(ICLR 2025)** [[Paper]](https://openreview.net/pdf?id=P6G1Z6jkf3)
+- EGOSIM: EGOCENTRIC EXPLORATION IN VIRTUAL WORLDS WITH MULTI-MODAL CONDITIONING **(ICLR 2025)** [[Paper]](https://openreview.net/pdf?id=zAyS5aRKV8) [[Project]](https://egosim.github.io/EgoSim/)
 - Do Egocentric Video-Language Models Really Understand Hand-Object Interactions? **(ICLR 2025)** [[Paper]](https://arxiv.org/abs/2405.17719) [[Code]](https://github.com/xuboshen/EgoNCEpp)
 - EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting **(3DV 2025)** [[Paper]](https://arxiv.org/abs/2406.19811)
 
