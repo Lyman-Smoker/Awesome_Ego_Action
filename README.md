@@ -22,6 +22,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities **(ArXiv 2025)** [[Paper]](https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/2501.05711&hl=en&sa=X&d=15963210349319454899&ei=XsiHZ43qDsqP6rQPyMv1qAE&scisig=AFWwaebX5sI6CP2D-Cb5R9rZOElZ&oi=scholaralrt&hist=ONJGBd0AAAAJ:632665305411281596:AFWwaeaGFMP0lGJczGMEoN9U1gLF&html=&pos=0&folt=kw)
 - HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2501.02973) [[Project]](https://hawor-project.github.io/)
 ----
+- Do Egocentric Video-Language Models Really Understand Hand-Object Interactions? **(ICLR 2025)** [[Paper]](https://arxiv.org/abs/2405.17719) [[Code]](https://github.com/xuboshen/EgoNCEpp)
 - EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting **(3DV 2025)** [[Paper]](https://arxiv.org/abs/2406.19811)
 
 
@@ -44,7 +45,6 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - HUP-3D: A 3D multi-view synthetic dataset for assisted-egocentric hand-ultrasound pose estimation **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2407.09215)
 - PARSE-Ego4D: Personal Action Recommendation Suggestions for Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2407.09503) [[Project]](https://parse-ego4d.github.io)
 - Egocentric Vision Language Planning **(ArXiv)** [[Paper]](https://arxiv.org/abs/2408.05802)
-- EgoNCE++: Do Egocentric Video-Language Models Really Understand Hand-Object Interactions? **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2405.17719) [[Code]](https://github.com/xuboshen/EgoNCEpp)
 - Diff-IP2D: Diffusion-Based Hand-Object Interaction Prediction on Egocentric Videos **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2405.04370)
 - Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2404.05072) [[Project]](https://dimadamen.github.io/OSNOM/)
 - EFM3D: A Benchmark for Measuring Progress Towards 3D Egocentric Foundation Models **(ArXiv)** [[Paper]](https://arxiv.org/pdf/2406.10224)
