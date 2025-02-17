@@ -22,6 +22,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities **(ArXiv 2025)** [[Paper]](https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/2501.05711&hl=en&sa=X&d=15963210349319454899&ei=XsiHZ43qDsqP6rQPyMv1qAE&scisig=AFWwaebX5sI6CP2D-Cb5R9rZOElZ&oi=scholaralrt&hist=ONJGBd0AAAAJ:632665305411281596:AFWwaeaGFMP0lGJczGMEoN9U1gLF&html=&pos=0&folt=kw)
 - HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2501.02973) [[Project]](https://hawor-project.github.io/)
 ----
+- MM-Ego: Towards Building Egocentric Multimodal LLMs **(ICLR 2025)** [[Paper]](https://arxiv.org/abs/2410.07177)
 - X-GEN: EGO-CENTRIC VIDEO PREDICTION BY WATCHING EXO-CENTRIC VIDEOS **(ICLR 2025)** [[Paper]](https://openreview.net/pdf?id=8J2DrrWDKE)
 - MODELING FINE-GRAINED HAND-OBJECT DYNAMICS FOR EGOCENTRIC VIDEO REPRESENTATION LEARNING **(ICLR 2025)** [[Paper]](https://openreview.net/pdf?id=P6G1Z6jkf3)
 - EGOSIM: EGOCENTRIC EXPLORATION IN VIRTUAL WORLDS WITH MULTI-MODAL CONDITIONING **(ICLR 2025)** [[Paper]](https://openreview.net/pdf?id=zAyS5aRKV8) [[Project]](https://egosim.github.io/EgoSim/)
@@ -37,7 +38,6 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - EgoVid-5M: A Large-Scale Video-Action Dataset for Egocentric Video Generation **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2411.08380) [[Project]](https://egovid.github.io) [[Code]](https://github.com/JeffWang987/EgoVid)
 - VidEgoThink: ASSESSING EGOCENTRIC VIDEO UNDERSTANDING CAPABILITIES FOR EMBODIED AI **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2410.11623)
 - EgoOops: A Dataset for Mistake Action Detection from Egocentric Videos with Procedural Texts **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2410.05343) [[Project]](https://y-haneji.github.io/EgoOops-project-page/)
-- MM-Ego: Towards Building Egocentric Multimodal LLMs **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2410.07177)
 - EGOLM: Multi-modal Language Model of Egocentric Motions **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2409.18127) [[Project]](https://hongfz16.github.io/projects/EgoLM)
 - EgoAvatar: Egocentric View-Driven and Photorealistic Full-body Avatars **(ArXiv)** [[Paper]](https://arxiv.org/pdf/2410.01835)
 - Estimating Body and Hand Motion in an Ego-sensed World **(ArXiv 2024)** [[Paper]](https://arxiv.org/abs/2410.03665) [[Project]](https://egoallo.github.io) [[Code]](https://github.com/brentyi/egoallo)
