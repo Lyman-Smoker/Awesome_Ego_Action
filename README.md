@@ -11,6 +11,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - An Outlook into the Future of Egocentric Vision **(IJCV 2024)** [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02095-7) [[Citations]](https://scholar.google.com/scholar?cites=15098752443409016265&as_sdt=2005&sciodt=0,5&hl=en)
  
 ### 2025
+- Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations **(ArXiv 2025)** [[ArXiv]](https://arxiv.org/abs/2503.19706) [[Code]](https://github.com/park-jungin/byov)
 - Exo2Ego: Exocentric Knowledge Guided MLLM for Egocentric Video Understanding **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2503.09143) [[Project]](https://egovisiongroup.github.io/Exo2Ego.github.io/)
 - Acquisition through My Eyes and Steps: A Joint Predictive Agent Model in Egocentric Worlds **(ArXiv 2025)** [[Paper]](https://arxiv.org/pdf/2502.05857)
 - PRVQL: Progressive Knowledge-guided Refinement for Robust Egocentric Visual Query Localization **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2502.07707) 
