@@ -25,6 +25,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities **(ArXiv 2025)** [[Paper]](https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/2501.05711&hl=en&sa=X&d=15963210349319454899&ei=XsiHZ43qDsqP6rQPyMv1qAE&scisig=AFWwaebX5sI6CP2D-Cb5R9rZOElZ&oi=scholaralrt&hist=ONJGBd0AAAAJ:632665305411281596:AFWwaeaGFMP0lGJczGMEoN9U1gLF&html=&pos=0&folt=kw)
 - HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2501.02973) [[Project]](https://hawor-project.github.io/)
 ----
+- Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input **(CVPR 2025)** [[Paper]](https://jianwang-mpi.github.io/ego4o/paper.pdf) [[Project]](https://jianwang-mpi.github.io/ego4o/)
 - Gazing Into Missteps: Leveraging Eye-Gaze for Unsupervised Mistake Detection in Egocentric Videos of Skilled Human Activities **(CVPR 2025)**
 - HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos **(CVPR 2025)** [[Paper]](https://arxiv.org/pdf/2411.19167) [[Project]](https://facebookresearch.github.io/hot3d/)
 - HD-EPIC: A Highly-Detailed Egocentric Video Dataset **(CVPR 2025)** [[Paper]](https://arxiv.org/abs/2502.04144) [[Project]](https://hd-epic.github.io) 
