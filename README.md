@@ -11,6 +11,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - An Outlook into the Future of Egocentric Vision **(IJCV 2024)** [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02095-7) [[Citations]](https://scholar.google.com/scholar?cites=15098752443409016265&as_sdt=2005&sciodt=0,5&hl=en)
  
 ### 2025
+- The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation **(ArXiv 2025)** [[Paper]](https://masashi-hatano.github.io/assets/pdf/egoh4.pdf) [[Project]](https://masashi-hatano.github.io/EgoH4/) [[Code]](https://github.com/masashi-hatano/EgoH4)
 - MAPLE: Encoding Dexterous Robotic Manipulation Priors Learned From Egocentric Videos **(ArXiv 2025)** [[Paper]](https://arxiv.org/pdf/2504.06084) [[Project]](https://algvr.com/maple/) [[Code]](https://github.com/algvr/maple/)
 - ANNEXE: Unified Analyzing, Answering, and Pixel Grounding for Egocentric Interaction **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2504.01472)
 - Bootstrap Your Own Views: Masked Ego-Exo Modeling for Fine-grained View-invariant Video Representations **(ArXiv 2025)** [[ArXiv]](https://arxiv.org/abs/2503.19706) [[Code]](https://github.com/park-jungin/byov)
