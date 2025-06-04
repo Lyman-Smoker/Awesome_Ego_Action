@@ -11,6 +11,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - An Outlook into the Future of Egocentric Vision **(IJCV 2024)** [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02095-7) [[Citations]](https://scholar.google.com/scholar?cites=15098752443409016265&as_sdt=2005&sciodt=0,5&hl=en)
  
 ### 2025
+- EgoVLM: Policy Optimization for Egocentric Video Understanding **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2506.03097)
 - Towards Comprehensive Scene Understanding: Integrating First and Third-Person Views for LVLMs **(ArXiv 2025)** [[Paper]](https://arxiv.org/pdf/2505.21955)
 - Egocentric Action-aware Inertial Localization in Point Clouds **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2505.14346)
 - MEgoHand: Multimodal Egocentric Hand-Object Interaction Motion Generation **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2505.16602)
