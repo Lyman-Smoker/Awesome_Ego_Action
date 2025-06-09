@@ -6,6 +6,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 💥 **NEWS: ICLR-2025 papers are added to the list.**
 
 ### Survey
+- Bridging Perspectives: A Survey on Cross-view Collaborative Intelligence with Egocentric-Exocentric Vision **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2506.06253)
 - Exocentric To Egocentric Transfer For Action Recognition: A Short Survey **(ArXiv 2024)** [[Paper]](https://arxiv.org/pdf/2410.20621)
 - A Survey on 3D Egocentric Human Pose Estimation **(CVPRW 2024)** [[Paper]](https://openaccess.thecvf.com/content/CVPR2024W/Rhobin/html/Azam_A_Survey_on_3D_Egocentric_Human_Pose_Estimation_CVPRW_2024_paper.html)
 - An Outlook into the Future of Egocentric Vision **(IJCV 2024)** [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02095-7) [[Citations]](https://scholar.google.com/scholar?cites=15098752443409016265&as_sdt=2005&sciodt=0,5&hl=en)
