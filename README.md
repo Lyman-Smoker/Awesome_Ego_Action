@@ -12,6 +12,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - An Outlook into the Future of Egocentric Vision **(IJCV 2024)** [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02095-7) [[Citations]](https://scholar.google.com/scholar?cites=15098752443409016265&as_sdt=2005&sciodt=0,5&hl=en)
  
 ### 2025
+- Proactive Assistant Dialogue Generation from Streaming Egocentric Videos **(ArXiv)** [[Paper]](https://arxiv.org/pdf/2506.05904) [[Project]](https://pro-assist.github.io/) [[Code]](https://github.com/pro-assist/ProAssist)
 - EgoM2P: Egocentric Multimodal Multitask Pretraining **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2506.07886)
 - EgoVLM: Policy Optimization for Egocentric Video Understanding **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2506.03097)
 - Towards Comprehensive Scene Understanding: Integrating First and Third-Person Views for LVLMs **(ArXiv 2025)** [[Paper]](https://arxiv.org/pdf/2505.21955)
