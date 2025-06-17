@@ -13,7 +13,6 @@ In this reprository, interetsting papers in EAU are collected to show the develo
  
 ### 2025
 - Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2506.13654)
-- EgoPrivacy: What Your First-Person Camera Says About You? **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2506.12258)
 - PlayerOne: Egocentric World Simiulator **(ArXiv 2025)** [[Project]](https://playerone-hku.github.io) [[Paper]](https://arxiv.org/pdf/2506.09995) [[Code]](https://github.com/yuanpengtu/PlayerOne)
 - Proactive Assistant Dialogue Generation from Streaming Egocentric Videos **(ArXiv)** [[Paper]](https://arxiv.org/pdf/2506.05904) [[Project]](https://pro-assist.github.io/) [[Code]](https://github.com/pro-assist/ProAssist)
 - EgoM2P: Egocentric Multimodal Multitask Pretraining **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2506.07886)
@@ -47,6 +46,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - Estimating Body and Hand Motion in an Ego-sensed World **(CVPR 2025)** [[Paper]](https://arxiv.org/abs/2410.03665) [[Project]](https://egoallo.github.io) [[Code]](https://github.com/brentyi/egoallo)
 - EGOLM: Multi-modal Language Model of Egocentric Motions **(CVPR 2025)** [[Paper]](https://arxiv.org/abs/2409.18127) [[Project]](https://hongfz16.github.io/projects/EgoLM)
 - EgoLife: EgoLife: Towards Egocentric Life Assistant **(CVPR 2025)** [[Paper]](https://egolife-ai.github.io/blog/static/pdf/EgoLife_20250228.pdf) [[Project]](https://egolife-ai.github.io) [[Code]](https://github.com/EvolvingLMMs-Lab/EgoLife)
+- EgoPrivacy: What Your First-Person Camera Says About You? **(ICML 2025)** [[Paper]](https://arxiv.org/abs/2506.12258)
 - MM-Ego: Towards Building Egocentric Multimodal LLMs **(ICLR 2025)** [[Paper]](https://arxiv.org/abs/2410.07177)
 - X-GEN: EGO-CENTRIC VIDEO PREDICTION BY WATCHING EXO-CENTRIC VIDEOS **(ICLR 2025)** [[Paper]](https://openreview.net/pdf?id=8J2DrrWDKE)
 - MODELING FINE-GRAINED HAND-OBJECT DYNAMICS FOR EGOCENTRIC VIDEO REPRESENTATION LEARNING **(ICLR 2025)** [[Paper]](https://openreview.net/pdf?id=P6G1Z6jkf3)
