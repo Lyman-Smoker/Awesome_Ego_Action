@@ -12,6 +12,8 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - An Outlook into the Future of Egocentric Vision **(IJCV 2024)** [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02095-7) [[Citations]](https://scholar.google.com/scholar?cites=15098752443409016265&as_sdt=2005&sciodt=0,5&hl=en)
  
 ### 2025
+- Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2506.13654)
+- EgoPrivacy: What Your First-Person Camera Says About You? **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2506.12258)
 - PlayerOne: Egocentric World Simiulator **(ArXiv 2025)** [[Project]](https://playerone-hku.github.io) [[Paper]](https://arxiv.org/pdf/2506.09995) [[Code]](https://github.com/yuanpengtu/PlayerOne)
 - Proactive Assistant Dialogue Generation from Streaming Egocentric Videos **(ArXiv)** [[Paper]](https://arxiv.org/pdf/2506.05904) [[Project]](https://pro-assist.github.io/) [[Code]](https://github.com/pro-assist/ProAssist)
 - EgoM2P: Egocentric Multimodal Multitask Pretraining **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2506.07886)
