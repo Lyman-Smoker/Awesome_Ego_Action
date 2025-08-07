@@ -35,6 +35,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - From My View to Yours: Ego-Augmented Learning in Large Vision Language Models for Understanding Exocentric Daily Living Activities **(ArXiv 2025)** [[Paper]](https://scholar.google.com/scholar_url?url=https://arxiv.org/pdf/2501.05711&hl=en&sa=X&d=15963210349319454899&ei=XsiHZ43qDsqP6rQPyMv1qAE&scisig=AFWwaebX5sI6CP2D-Cb5R9rZOElZ&oi=scholaralrt&hist=ONJGBd0AAAAJ:632665305411281596:AFWwaeaGFMP0lGJczGMEoN9U1gLF&html=&pos=0&folt=kw)
 - HaWoR: World-Space Hand Motion Reconstruction from Egocentric Videos **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2501.02973) [[Project]](https://hawor-project.github.io/)
 ----
+- UniEgoMotion: A Unified Model for Egocentric Motion Reconstruction, Forecasting, and Generation **(ICCV 2025)** [[Paper]](https://arxiv.org/pdf/2508.01126) [[Project]](https://chaitanya100100.github.io/UniEgoMotion/) [[Code]](https://github.com/chaitanya100100/UniEgoMotion)
 - Egocentric Event-Based Vision for Ping Pong Ball Trajectory Prediction **(CVPRW 2025)** [[Paper]](https://arxiv.org/abs/2506.07860)
 - Viewpoint Rosetta Stone: Unlocking Unpaired Ego-Exo Videos for View-invariant Representation Learning **(CVPR 2025) [[Project]](https://vision.cs.utexas.edu/projects/ViewpointRosetta/)
 - Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input **(CVPR 2025)** [[Paper]](https://jianwang-mpi.github.io/ego4o/paper.pdf) [[Project]](https://jianwang-mpi.github.io/ego4o/)
