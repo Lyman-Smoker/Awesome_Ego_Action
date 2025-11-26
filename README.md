@@ -12,6 +12,7 @@ In this reprository, interetsting papers in EAU are collected to show the develo
 - An Outlook into the Future of Egocentric Vision **(IJCV 2024)** [[Paper]](https://link.springer.com/article/10.1007/s11263-024-02095-7) [[Citations]](https://scholar.google.com/scholar?cites=15098752443409016265&as_sdt=2005&sciodt=0,5&hl=en)
  
 ### 2025
+- VCR: Learning Predictive Visuomotor Coordination **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2503.23300)
 - EgoTwin: Dreaming Body and View in First Person **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2508.13013)
 - Whole-Body Conditioned Egocentric Video Prediction **(ArXiv 2025)** [[Paper]](https://arxiv.org/pdf/2506.21552)
 - Ego-R1: Chain-of-Tool-Thought for Ultra-Long Egocentric Video Reasoning **(ArXiv 2025)** [[Paper]](https://arxiv.org/abs/2506.13654)
